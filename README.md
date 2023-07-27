@@ -7,7 +7,7 @@ Instructions at his readme file.
 Instruções no seu arquivo readme.
 
 ## WhatsApp
-Tutorial: https://www.luiztools.com.br/post/como-enviar-mensagens-de-whatsapp-em-node-js-via-twilio/
+
 
 To run:
 - make all configs in the Twilio panel for WhatsApp
